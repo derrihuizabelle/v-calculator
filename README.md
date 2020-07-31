@@ -1,4 +1,9 @@
-# v-calculator
+# v-calculator 
+
+```
+Simple vue calculator, 
+I left some comments if you want to know how to do yours too!
+```
 
 ## Project setup
 ```
